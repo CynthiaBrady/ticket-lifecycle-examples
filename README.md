@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This lab demonstration covers how a ticket moves through stages from intake to resolution within the open-source help desk ticketing system.<br />
 
 
 
@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-1.Login to osTicket as the agent. You will see all the tickets displayed.  
+1.Log in to osTicket as the agent. You will see all the tickets displayed.  
 </p>
 <br />
 
@@ -35,13 +35,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
   
-2. A senior admin will have already set the priority of the ticket and the SLA PLAN when they assign the ticket to the agent.
+2. An experienced admin will have already determined the ticket's priority and SLA plan when assigning it to the agent.  
 
 <p>
 <img src="https://github.com/CynthiaBrady/ticket-lifestyle/assets/160746865/3bd1068e-7ff1-439f-98b3-9813c1a835c7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. The agent will use the ticket to provide the customer with status updates until the issue is resolved.  The agent will close the ticket after the issue has been resolved.  
+3. The agent will use the ticket to update the customer with status until the issue is resolved. Once resolved, the agent  will close the ticket.
 
 
 
