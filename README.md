@@ -31,7 +31,7 @@ This lab demonstration covers how a ticket moves through stages from intake to r
 
 
 
-<img src="https://github.com/CynthiaBrady/ticket-lifestyle/assets/160746865/0e3b4f06-e937-4b66-84e7-99d3a4f07d08" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CynthiaBrady/ticket-lifecycle/assets/160746865/0e3b4f06-e937-4b66-84e7-99d3a4f07d08" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
